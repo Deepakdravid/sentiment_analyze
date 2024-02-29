@@ -1,0 +1,10 @@
+Comment: '#studiolife #aislife #requires #passion #dedication #willpower   to find #newmaterialsâ¦ ' - Score: 0.0 - Emotion: neutral -category: sports
+Comment: ' @user #white #supremacists want everyone to see the new â  #birdsâ #movie â and hereâs why  ' - Score: 0.06818181818181818 - Emotion: positive -category: sentiment
+Comment: 'safe ways to heal your #acne!!    #altwaystoheal #healthy   #healing!! ' - Score: 0.78125 - Emotion: positive -category: interaction
+Comment: 'is the hp and the cursed child book up for reservations already? if yes, where? if no, when? ððð   #harrypotter #pottermore #favorite' - Score: 0.5 - Emotion: positive -category: happy
+Comment: '  3rd #bihday to my amazing, hilarious #nephew eli ahmir! uncle dave loves you and missesâ¦ ' - Score: 0.4083333333333334 - Emotion: positive -category: personal status
+Comment: 'choose to be   :) #momtips ' - Score: 0.5 - Emotion: positive -category: personal status
+Comment: 'something inside me dies ð¦ð¿â¨  eyes ness #smokeyeyes #tired  #lonely #sof #grungeâ¦ ' - Score: -0.25 - Emotion: negative -category: dislike
+Comment: '#finished#tattoo#inked#ink#loveitâ¤ï¸ #â¤ï¸â¤ï¸â¤ï¸â¤ï¸ #thanks#aleeee !!! ' - Score: 0.0 - Emotion: neutral -category: sports
+Comment: ' @user @user @user i will never understand why my dad left me when i was so young.... :/ #deep #inthefeels  ' - Score: -0.0375 - Emotion: negative -category: unhappy
+Comment: '#delicious   #food #lovelife #capetown mannaepicure #resturantâ¦ ' - Score: 1.0 - Emotion: positive -category: happy
